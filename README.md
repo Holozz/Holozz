@@ -10,9 +10,44 @@ A student exploring the world.
 ## 🛠️ Languages & Tools
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,redis,python,git,docker,linux&amp;perline=8&amp;theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,redis,python,git,docker,linux&amp;perline=8&amp;theme=light" />
-  <img alt="Java, Spring, MySQL, Redis, Python, Git, Docker and Linux" src="https://skillicons.dev/icons?i=java,spring,mysql,redis,python,git,docker,linux&amp;perline=8&amp;theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java&amp;theme=light" />
+  <img alt="Java" width="48" height="48" src="https://skillicons.dev/icons?i=java&amp;theme=light" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=spring&amp;theme=light" />
+  <img alt="Spring" width="48" height="48" src="https://skillicons.dev/icons?i=spring&amp;theme=light" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&amp;theme=light" />
+  <img alt="MySQL" width="48" height="48" src="https://skillicons.dev/icons?i=mysql&amp;theme=light" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redis&amp;theme=light" />
+  <img alt="Redis" width="48" height="48" src="https://skillicons.dev/icons?i=redis&amp;theme=light" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python&amp;theme=light" />
+  <img alt="Python" width="48" height="48" src="https://skillicons.dev/icons?i=python&amp;theme=light" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&amp;theme=light" />
+  <img alt="Git" width="48" height="48" src="https://skillicons.dev/icons?i=git&amp;theme=light" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker&amp;theme=light" />
+  <img alt="Docker" width="48" height="48" src="https://skillicons.dev/icons?i=docker&amp;theme=light" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux&amp;theme=light" />
+  <img alt="Linux" width="48" height="48" src="https://skillicons.dev/icons?i=linux&amp;theme=light" />
 </picture>
 
 ## 🐍 GitHub Contributions
